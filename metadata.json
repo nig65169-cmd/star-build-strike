@@ -1,0 +1,6 @@
+{
+  "name": "Gundam Handbook - Cẩm Nang Gunpla Toàn Diện",
+  "description": "Cẩm nang chuyên sâu về Gundam & Gunpla: thư viện Mobile Suit, phân cấp Grade, hướng dẫn lắp ráp, kỹ thuật sơn custom, đánh giá mô hình và bối cảnh vũ trụ Gundam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
